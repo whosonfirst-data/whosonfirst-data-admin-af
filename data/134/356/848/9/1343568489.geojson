@@ -52,7 +52,7 @@
         "wk:page":"Pahlavan_Tash"
     },
     "wof:country":"AF",
-    "wof:geomhash":"0c975a2cae11ad7f95ae4137e2dfdd5b",
+    "wof:geomhash":"d52e2349269b573ae696decf9aaf5ff6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     69.12028000000001,
     36.30988
 ],
-  "geometry": {"coordinates":[69.12028000000001,36.30988],"type":"Point"}
+  "geometry": {"coordinates":[69.12028,36.30988],"type":"Point"}
 }

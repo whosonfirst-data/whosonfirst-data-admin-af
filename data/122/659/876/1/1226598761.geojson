@@ -53,7 +53,7 @@
         "wk:page":"Dahan-e_Do_Laneh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"5fe896b1da233b9ec7af7df07eceee74",
+    "wof:geomhash":"bbd60f5329c302420e0a96409f7cf829",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     67.50508,
     34.37560999999999
 ],
-  "geometry": {"coordinates":[67.50508000000001,34.37560999999999],"type":"Point"}
+  "geometry": {"coordinates":[67.50508,34.37561],"type":"Point"}
 }

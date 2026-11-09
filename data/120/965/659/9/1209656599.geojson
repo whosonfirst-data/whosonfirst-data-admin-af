@@ -45,7 +45,7 @@
         "wk:page":"Zabrak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"22893a8afe2089d75b776efc0b2c8343",
+    "wof:geomhash":"6e5614096ba26544e4c07df87c994d64",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -68,5 +68,5 @@
     66.27359,
     35.39724000000001
 ],
-  "geometry": {"coordinates":[66.27359,35.39724000000001],"type":"Point"}
+  "geometry": {"coordinates":[66.27359,35.39724],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Bakharow"
     },
     "wof:country":"AF",
-    "wof:geomhash":"ddec59e79a87304a2cf1ddd1bafff02b",
+    "wof:geomhash":"4618d5d4dfeaf4c1e7e4e26ca1ae0ee9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     70.62756999999998,
     37.97655
 ],
-  "geometry": {"coordinates":[70.62756999999998,37.97655],"type":"Point"}
+  "geometry": {"coordinates":[70.62757,37.97655],"type":"Point"}
 }

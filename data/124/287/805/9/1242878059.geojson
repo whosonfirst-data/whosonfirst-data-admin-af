@@ -50,7 +50,7 @@
         "wk:page":"Lal_Margh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"27bb8024efb23d93e0c89a8b52e6f64f",
+    "wof:geomhash":"6fd44a33c0b9fb0a243131b9ba142379",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     70.45810999999998,
     37.76915
 ],
-  "geometry": {"coordinates":[70.45810999999998,37.76915],"type":"Point"}
+  "geometry": {"coordinates":[70.45811,37.76915],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Senjetak%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"8a070e4a3330a4a231b6dc6a9c06f9b5",
+    "wof:geomhash":"d89e412b0b21707f787178ef2d1f15f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     63.23674000000001,
     34.98545
 ],
-  "geometry": {"coordinates":[63.23674000000001,34.98545],"type":"Point"}
+  "geometry": {"coordinates":[63.23674,34.98545],"type":"Point"}
 }

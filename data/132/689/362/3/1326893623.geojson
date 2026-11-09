@@ -60,7 +60,7 @@
         "wk:page":"Torkham"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f550d3c7a8816c8960416cbf11bcb6da",
+    "wof:geomhash":"087d8cf7db7d0abdf065e5e627f31aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     71.08471999999998,
     34.11472
 ],
-  "geometry": {"coordinates":[71.08471999999998,34.11472],"type":"Point"}
+  "geometry": {"coordinates":[71.08472,34.11472],"type":"Point"}
 }

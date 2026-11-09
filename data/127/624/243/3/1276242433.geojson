@@ -48,7 +48,7 @@
         "wk:page":"Lughman"
     },
     "wof:country":"AF",
-    "wof:geomhash":"3d5630180427f599900bc0288adce5a9",
+    "wof:geomhash":"79fa3335d09d50d07e79a3af90a1b98b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     70.38306999999998,
     37.74136
 ],
-  "geometry": {"coordinates":[70.38306999999998,37.74136],"type":"Point"}
+  "geometry": {"coordinates":[70.38307,37.74136],"type":"Point"}
 }

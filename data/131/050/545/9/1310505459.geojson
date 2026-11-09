@@ -49,7 +49,7 @@
         "wk:page":"Sar-e_Biland"
     },
     "wof:country":"AF",
-    "wof:geomhash":"65338710e3f6dc89b2fa5d25849562f7",
+    "wof:geomhash":"f5a7abcf6c36ba6762c59499e90f5cf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.37921999999998,
     37.75802
 ],
-  "geometry": {"coordinates":[70.37921999999998,37.75802],"type":"Point"}
+  "geometry": {"coordinates":[70.37922,37.75802],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Enam"
     },
     "wof:country":"AF",
-    "wof:geomhash":"31fcba9e62acfdd232e72d9cf2980a9d",
+    "wof:geomhash":"7ddf48141276c0f8f8f032bee1c5e7b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.89862,
     34.09970999999999
 ],
-  "geometry": {"coordinates":[68.89861999999999,34.09970999999999],"type":"Point"}
+  "geometry": {"coordinates":[68.89862,34.09971],"type":"Point"}
 }

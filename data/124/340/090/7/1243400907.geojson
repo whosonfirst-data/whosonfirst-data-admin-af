@@ -57,7 +57,7 @@
         "wk:page":"Shur_Areq"
     },
     "wof:country":"AF",
-    "wof:geomhash":"396ff01d9b475d9e523fcb8541113d43",
+    "wof:geomhash":"bfc608fc6c625221f687cbf87596b14c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     66.72870999999999,
     37.31177
 ],
-  "geometry": {"coordinates":[66.72870999999999,37.31177],"type":"Point"}
+  "geometry": {"coordinates":[66.72871,37.31177],"type":"Point"}
 }

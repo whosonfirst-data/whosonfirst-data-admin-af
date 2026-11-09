@@ -71,7 +71,7 @@
         "wk:page":"Sarhadd"
     },
     "wof:country":"AF",
-    "wof:geomhash":"1b9dd52a24ab4cbe2e1d9bae4fac5bba",
+    "wof:geomhash":"855cc37b7544f3261f29562e3f5a4001",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -94,5 +94,5 @@
     73.44651999999998,
     37.00231
 ],
-  "geometry": {"coordinates":[73.44651999999998,37.00231],"type":"Point"}
+  "geometry": {"coordinates":[73.44652,37.00231],"type":"Point"}
 }

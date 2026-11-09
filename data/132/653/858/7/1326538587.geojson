@@ -50,7 +50,7 @@
         "wk:page":"Qeshlaq_Khas"
     },
     "wof:country":"AF",
-    "wof:geomhash":"b0bc87428faf6c24e38838b61be0147d",
+    "wof:geomhash":"e23f6f35ddc30d16e5cfb6a70b391cd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     64.51120999999999,
     35.13446
 ],
-  "geometry": {"coordinates":[64.51120999999999,35.13446],"type":"Point"}
+  "geometry": {"coordinates":[64.51121,35.13446],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Haji_Khel"
     },
     "wof:country":"AF",
-    "wof:geomhash":"236e4cd8e4d9c9863379d87791ee8c41",
+    "wof:geomhash":"0d171b16075850df908858708bce596d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     67.96538000000001,
     32.99148
 ],
-  "geometry": {"coordinates":[67.96538000000001,32.99148],"type":"Point"}
+  "geometry": {"coordinates":[67.96538,32.99148],"type":"Point"}
 }

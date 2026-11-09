@@ -53,7 +53,7 @@
         "wk:page":"Arghandakan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"40c8bf44615dd016308fe63ad91b0063",
+    "wof:geomhash":"bf3ee29a4a97a14f8da77203b0fb756b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     70.30476999999999,
     36.84164000000001
 ],
-  "geometry": {"coordinates":[70.30476999999999,36.84164000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.30477,36.84164],"type":"Point"}
 }

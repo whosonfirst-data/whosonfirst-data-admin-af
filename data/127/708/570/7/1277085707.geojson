@@ -53,7 +53,7 @@
         "wk:page":"Chahar_Dar"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4cee08dcc3ceef0a34a2c87951653618",
+    "wof:geomhash":"95551f4ddd0743c0603803668fa603fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     68.60923000000001,
     35.39680999999999
 ],
-  "geometry": {"coordinates":[68.60923000000001,35.39680999999999],"type":"Point"}
+  "geometry": {"coordinates":[68.60923,35.39681],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "wk:page":"Moqor"
     },
     "wof:country":"AF",
-    "wof:geomhash":"eb4a31173497d7a9b8509be88e5b2450",
+    "wof:geomhash":"2dd543cf9e3bf5f1398ab6a806cb2acc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     63.29264000000001,
     35.03987
 ],
-  "geometry": {"coordinates":[63.29264000000001,35.03987],"type":"Point"}
+  "geometry": {"coordinates":[63.29264,35.03987],"type":"Point"}
 }

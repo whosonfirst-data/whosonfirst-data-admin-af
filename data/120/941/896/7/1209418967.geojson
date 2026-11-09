@@ -56,7 +56,7 @@
         "wk:page":"Kaji"
     },
     "wof:country":"AF",
-    "wof:geomhash":"cfb178b075b114a3af5e5b167bd5320c",
+    "wof:geomhash":"78319ecb1d8c8c0980447c2180e72bb7",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -79,5 +79,5 @@
     70.21573000000001,
     37.92792
 ],
-  "geometry": {"coordinates":[70.21573000000001,37.92792],"type":"Point"}
+  "geometry": {"coordinates":[70.21573,37.92792],"type":"Point"}
 }

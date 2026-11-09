@@ -64,7 +64,7 @@
         "wk:page":"Koran_va_Monjan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"acd7adf001c31df5132dfc93e05edebf",
+    "wof:geomhash":"190f8f08888e71c224faa6af0e0991e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,5 +90,5 @@
     70.77258,
     36.02865999999999
 ],
-  "geometry": {"coordinates":[70.77258,36.02865999999999],"type":"Point"}
+  "geometry": {"coordinates":[70.77258,36.02866],"type":"Point"}
 }

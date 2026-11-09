@@ -51,7 +51,7 @@
         "wk:page":"Farghamu"
     },
     "wof:country":"AF",
-    "wof:geomhash":"773a80f39aac170b4b81f9544211efcc",
+    "wof:geomhash":"ffba3cc9520241920c591b11cb8ef1fe",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     70.74476999999997,
     36.38598
 ],
-  "geometry": {"coordinates":[70.74476999999997,36.38598],"type":"Point"}
+  "geometry": {"coordinates":[70.74477,36.38598],"type":"Point"}
 }

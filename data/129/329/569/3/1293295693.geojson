@@ -52,7 +52,7 @@
         "wk:page":"Khvosh_Margh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"cd470337b7447dc595f976491a70ce70",
+    "wof:geomhash":"f72bbc8571cbd522a0c526aa8ec7a3a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     63.10854000000001,
     34.84563
 ],
-  "geometry": {"coordinates":[63.10854000000001,34.84563],"type":"Point"}
+  "geometry": {"coordinates":[63.10854,34.84563],"type":"Point"}
 }

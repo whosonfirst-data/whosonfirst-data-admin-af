@@ -45,7 +45,7 @@
         "wk:page":"Na%60man"
     },
     "wof:country":"AF",
-    "wof:geomhash":"40bc85b01c638672ff70f5e8b0afb3b5",
+    "wof:geomhash":"04a08fb46ad6868711bca1ceef87bdc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     68.65701999999999,
     35.73696
 ],
-  "geometry": {"coordinates":[68.65701999999999,35.73696],"type":"Point"}
+  "geometry": {"coordinates":[68.65702,35.73696],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"%60Ali_Gol"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f30125a1f61dbc37683c8b26910da116",
+    "wof:geomhash":"b21c86ee0a5c4176495822de39d44c32",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     63.91983000000001,
     35.90469
 ],
-  "geometry": {"coordinates":[63.91983000000001,35.90469],"type":"Point"}
+  "geometry": {"coordinates":[63.91983,35.90469],"type":"Point"}
 }

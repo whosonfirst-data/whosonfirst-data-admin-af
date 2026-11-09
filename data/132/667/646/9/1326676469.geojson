@@ -53,7 +53,7 @@
         "wk:page":"Qezel_Kand%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"1237f5420b376f4416b4ab205a241b35",
+    "wof:geomhash":"b21fb9d85edde665e80f2267cbcbe08a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     66.89244000000001,
     36.23776
 ],
-  "geometry": {"coordinates":[66.89244000000001,36.23776],"type":"Point"}
+  "geometry": {"coordinates":[66.89244,36.23776],"type":"Point"}
 }

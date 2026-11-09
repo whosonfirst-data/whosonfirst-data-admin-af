@@ -50,7 +50,7 @@
         "wk:page":"Teylan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a926a44c44bae98d3f7a82cc53941445",
+    "wof:geomhash":"3aebbc2d61d474d575873237f0f0d2c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     64.80939000000001,
     35.53679
 ],
-  "geometry": {"coordinates":[64.80939000000001,35.53679],"type":"Point"}
+  "geometry": {"coordinates":[64.80939,35.53679],"type":"Point"}
 }

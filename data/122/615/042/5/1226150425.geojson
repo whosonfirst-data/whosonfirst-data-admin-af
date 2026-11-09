@@ -59,7 +59,7 @@
         "wk:page":"Cham_Qal%60eh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"247f10024af8db19b86acf127b59b8ed",
+    "wof:geomhash":"8489bba0d4626ef902e5ec7ab0a344a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     68.74658000000001,
     36.14111
 ],
-  "geometry": {"coordinates":[68.74658000000001,36.14111],"type":"Point"}
+  "geometry": {"coordinates":[68.74658,36.14111],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Ghowrayd_Gharami"
     },
     "wof:country":"AF",
-    "wof:geomhash":"76d21335e6b7a73f7cf23a38a5436bbd",
+    "wof:geomhash":"08229973cdc818f19b49f519b3e7fce0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     70.79063000000002,
     36.5222
 ],
-  "geometry": {"coordinates":[70.79063000000002,36.5222],"type":"Point"}
+  "geometry": {"coordinates":[70.79063,36.5222],"type":"Point"}
 }

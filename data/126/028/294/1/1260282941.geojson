@@ -49,7 +49,7 @@
         "wk:page":"Hazar_Cheshmeh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9f0553b5918cddc6b37ed2e989215e4b",
+    "wof:geomhash":"3265f1bf39346e4cf95350ce3b64d684",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     67.00571,
     35.30179000000001
 ],
-  "geometry": {"coordinates":[67.00570999999999,35.30179000000001],"type":"Point"}
+  "geometry": {"coordinates":[67.00571,35.30179],"type":"Point"}
 }

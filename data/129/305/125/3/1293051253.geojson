@@ -59,7 +59,7 @@
         "wk:page":"Darabad%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9adb815237499502109067953a414cb5",
+    "wof:geomhash":"01c5f77c5355725ed8e8af1030527046",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     66.92848000000001,
     36.95188
 ],
-  "geometry": {"coordinates":[66.92848000000001,36.95188],"type":"Point"}
+  "geometry": {"coordinates":[66.92848,36.95188],"type":"Point"}
 }

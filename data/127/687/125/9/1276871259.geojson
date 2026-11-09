@@ -55,7 +55,7 @@
         "wk:page":"%60Ambar_Samuch"
     },
     "wof:country":"AF",
-    "wof:geomhash":"93cff819edaa82d065f8d346494c3760",
+    "wof:geomhash":"2ee4b440ae680b59a5f6cbf5d63e129e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     67.58870999999999,
     34.80293
 ],
-  "geometry": {"coordinates":[67.58870999999999,34.80293],"type":"Point"}
+  "geometry": {"coordinates":[67.58871,34.80293],"type":"Point"}
 }

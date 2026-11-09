@@ -56,7 +56,7 @@
         "wk:page":"Maruf_%28Afghanistan%29"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a0b9a3dbfb6cd84f3ff658632cce5fcc",
+    "wof:geomhash":"60cac97a5b1a7e23718861089ad5897a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     70.35613000000001,
     34.44031
 ],
-  "geometry": {"coordinates":[70.35613000000001,34.44031],"type":"Point"}
+  "geometry": {"coordinates":[70.35613,34.44031],"type":"Point"}
 }

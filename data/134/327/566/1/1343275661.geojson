@@ -50,7 +50,7 @@
         "wk:page":"Ragh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"d860fa38c95fbf03ab828a7016b45ef7",
+    "wof:geomhash":"4a130024a69c7a08f44c64a877c6d232",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     70.44655999999998,
     37.53984000000001
 ],
-  "geometry": {"coordinates":[70.44655999999998,37.53984000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.44656,37.53984],"type":"Point"}
 }

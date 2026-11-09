@@ -93,7 +93,7 @@
         "wk:page":"Parun"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9430002e29b51eb4f1ad358d32ffdfa2",
+    "wof:geomhash":"86590d8a47dd4b1d55d219387a24f40c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -121,5 +121,5 @@
     70.92260999999998,
     35.42064
 ],
-  "geometry": {"coordinates":[70.92260999999998,35.42064],"type":"Point"}
+  "geometry": {"coordinates":[70.92261,35.42064],"type":"Point"}
 }

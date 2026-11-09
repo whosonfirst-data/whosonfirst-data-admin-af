@@ -51,7 +51,7 @@
         "wk:page":"Berana"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9dd1c6891efb0fc453738b92d3019445",
+    "wof:geomhash":"425162bf85ebcd154f93bc98ee768bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     67.27063000000001,
     34.44266
 ],
-  "geometry": {"coordinates":[67.27063000000001,34.44266],"type":"Point"}
+  "geometry": {"coordinates":[67.27063,34.44266],"type":"Point"}
 }

@@ -65,7 +65,7 @@
         "wk:page":"Tash_Gozar"
     },
     "wof:country":"AF",
-    "wof:geomhash":"eff0c770c67402c020cfc59bc447c3ca",
+    "wof:geomhash":"178d0f13b17b3701fb7373be56d06520",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     67.20411999999999,
     37.24352
 ],
-  "geometry": {"coordinates":[67.20411999999999,37.24352],"type":"Point"}
+  "geometry": {"coordinates":[67.20412,37.24352],"type":"Point"}
 }

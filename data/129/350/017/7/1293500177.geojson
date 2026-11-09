@@ -53,7 +53,7 @@
         "wk:page":"Bahadorkhan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"10156bf369a673d8e297c5c5aa95184a",
+    "wof:geomhash":"e7581b241f237c75da1a4d51c685010d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     63.65213000000001,
     34.76466
 ],
-  "geometry": {"coordinates":[63.65213000000001,34.76466],"type":"Point"}
+  "geometry": {"coordinates":[63.65213,34.76466],"type":"Point"}
 }

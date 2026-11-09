@@ -55,7 +55,7 @@
         "wk:page":"Javqol"
     },
     "wof:country":"AF",
-    "wof:geomhash":"dbe5df3a927496375e106b9001b9de17",
+    "wof:geomhash":"4577f3a4fc6d044fdbc3ab5d12758ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     68.03984,
     34.66914000000001
 ],
-  "geometry": {"coordinates":[68.03984,34.66914000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.03984,34.66914],"type":"Point"}
 }

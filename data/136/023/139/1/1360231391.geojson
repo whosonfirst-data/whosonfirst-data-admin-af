@@ -53,7 +53,7 @@
         "wk:page":"Bay_Temor"
     },
     "wof:country":"AF",
-    "wof:geomhash":"b8782e33b1fd21731440ffbe69ec4d96",
+    "wof:geomhash":"05ede4665e8454fd1c5d5e5bfcdc8e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     66.75778000000001,
     36.66972
 ],
-  "geometry": {"coordinates":[66.75778000000001,36.66972],"type":"Point"}
+  "geometry": {"coordinates":[66.75778,36.66972],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Jang_%60Ali"
     },
     "wof:country":"AF",
-    "wof:geomhash":"865b3be3b6d2b68b277f297e06cd6532",
+    "wof:geomhash":"f4c5d22318d16522f0aaa077370fd7cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     68.44131,
     35.99464000000001
 ],
-  "geometry": {"coordinates":[68.44131,35.99464000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.44131,35.99464],"type":"Point"}
 }

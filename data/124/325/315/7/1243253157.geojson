@@ -55,7 +55,7 @@
         "wk:page":"La%E2%80%98l"
     },
     "wof:country":"AF",
-    "wof:geomhash":"e8cba0843c3142e757adf7ae7a9f85b8",
+    "wof:geomhash":"356263fd5f189507c348b24646e34e77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     66.27996999999999,
     34.50141
 ],
-  "geometry": {"coordinates":[66.27996999999999,34.50141],"type":"Point"}
+  "geometry": {"coordinates":[66.27997,34.50141],"type":"Point"}
 }

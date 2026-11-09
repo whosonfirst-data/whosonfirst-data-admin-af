@@ -48,7 +48,7 @@
         "wk:page":"Bozba%27i"
     },
     "wof:country":"AF",
-    "wof:geomhash":"30ec4256f0fd66f6c6e80b9d591db6cd",
+    "wof:geomhash":"c24e5ace3daef0349faf68dbfaaef3c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     63.38271999999999,
     35.45174
 ],
-  "geometry": {"coordinates":[63.38271999999999,35.45174],"type":"Point"}
+  "geometry": {"coordinates":[63.38272,35.45174],"type":"Point"}
 }

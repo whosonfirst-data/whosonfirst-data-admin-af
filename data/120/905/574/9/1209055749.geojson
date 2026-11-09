@@ -50,7 +50,7 @@
         "wk:page":"Asiabad"
     },
     "wof:country":"AF",
-    "wof:geomhash":"512f7fd2bba01efb9d02abc8461d05e0",
+    "wof:geomhash":"d6a656f3968fd8d22beddc9456e54e9b",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -73,5 +73,5 @@
     67.88989000000001,
     36.37817
 ],
-  "geometry": {"coordinates":[67.88989000000001,36.37817],"type":"Point"}
+  "geometry": {"coordinates":[67.88989,36.37817],"type":"Point"}
 }

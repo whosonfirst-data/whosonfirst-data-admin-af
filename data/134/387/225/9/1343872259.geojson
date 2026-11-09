@@ -58,7 +58,7 @@
         "wk:page":"Ba_Khersak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"563b191a9920351fb7706e1a60535770",
+    "wof:geomhash":"5c4cfe91f9804771d7dd2186fb673ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     71.12104000000002,
     37.86251
 ],
-  "geometry": {"coordinates":[71.12104000000002,37.86251],"type":"Point"}
+  "geometry": {"coordinates":[71.12104,37.86251],"type":"Point"}
 }

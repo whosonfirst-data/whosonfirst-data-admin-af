@@ -48,7 +48,7 @@
         "wk:page":"Zinjaren"
     },
     "wof:country":"AF",
-    "wof:geomhash":"24d36a23c48b731c3b876f7e1c2a2544",
+    "wof:geomhash":"fb3a4e24fb672a1e697b0ac184f01030",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     70.81000999999998,
     38.26179000000001
 ],
-  "geometry": {"coordinates":[70.81000999999998,38.26179000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.81001,38.26179],"type":"Point"}
 }

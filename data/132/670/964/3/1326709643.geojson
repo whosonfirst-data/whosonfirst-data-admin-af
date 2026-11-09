@@ -79,7 +79,7 @@
         "wk:page":"Istalif_District"
     },
     "wof:country":"AF",
-    "wof:geomhash":"3a8426764dec5d1d655dd586cef628e7",
+    "wof:geomhash":"3f72ccbd2128bb8432abf5ec0bb32401",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     69.07755999999999,
     34.83268
 ],
-  "geometry": {"coordinates":[69.07755999999999,34.83268],"type":"Point"}
+  "geometry": {"coordinates":[69.07756,34.83268],"type":"Point"}
 }

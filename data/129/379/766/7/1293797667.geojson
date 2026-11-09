@@ -49,7 +49,7 @@
         "wk:page":"Shahr-e_Monjan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"936d1f824a607274986fb0b1ecc5ead1",
+    "wof:geomhash":"d143b352eb49cf0657019fd16a51b14d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.77389000000002,
     36.01972
 ],
-  "geometry": {"coordinates":[70.77389000000002,36.01972],"type":"Point"}
+  "geometry": {"coordinates":[70.77389,36.01972],"type":"Point"}
 }

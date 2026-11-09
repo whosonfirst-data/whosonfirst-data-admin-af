@@ -47,7 +47,7 @@
         "wk:page":"Sang_Ab"
     },
     "wof:country":"AF",
-    "wof:geomhash":"821dbc184a049ec82d81f316ab820ee1",
+    "wof:geomhash":"ca5d0640dbd041a4fca5a308f9639814",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -70,5 +70,5 @@
     70.22171999999999,
     37.88413
 ],
-  "geometry": {"coordinates":[70.22171999999999,37.88413],"type":"Point"}
+  "geometry": {"coordinates":[70.22172,37.88413],"type":"Point"}
 }

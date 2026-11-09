@@ -46,7 +46,7 @@
         "wk:page":"Do_Ab_%28Bamiyan%29"
     },
     "wof:country":"AF",
-    "wof:geomhash":"35ab7d622787749c616b50c3851e1653",
+    "wof:geomhash":"647ec3c91f4b12623a5c9b9436dea5c9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     67.79778,
     35.36582999999999
 ],
-  "geometry": {"coordinates":[67.79778,35.36582999999999],"type":"Point"}
+  "geometry": {"coordinates":[67.79778,35.36583],"type":"Point"}
 }

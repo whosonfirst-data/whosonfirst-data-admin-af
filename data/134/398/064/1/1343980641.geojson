@@ -56,7 +56,7 @@
         "wk:page":"Keligan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"0c5d034904ce9d9becbdd99d2f88e5d8",
+    "wof:geomhash":"1db201defdd10d493984b24539b1f5f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     66.68838000000001,
     34.86014
 ],
-  "geometry": {"coordinates":[66.68838000000001,34.86014],"type":"Point"}
+  "geometry": {"coordinates":[66.68838,34.86014],"type":"Point"}
 }

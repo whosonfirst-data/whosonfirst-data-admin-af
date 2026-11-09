@@ -52,7 +52,7 @@
         "wk:page":"Khoshk_Darreh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6aec372f3e672ad34b0bbd550954a356",
+    "wof:geomhash":"74713c88d43f960da9dbca80d14f40d5",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -75,5 +75,5 @@
     67.60571999999999,
     34.84657
 ],
-  "geometry": {"coordinates":[67.60571999999999,34.84657],"type":"Point"}
+  "geometry": {"coordinates":[67.60572,34.84657],"type":"Point"}
 }

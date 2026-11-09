@@ -50,7 +50,7 @@
         "wk:page":"Bawragai"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6b190d3d7f7bd84a8194f8499ff8dc21",
+    "wof:geomhash":"d18cb516110695a6e72997c0bfe16141",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     66.89801999999999,
     36.08172
 ],
-  "geometry": {"coordinates":[66.89801999999999,36.08172],"type":"Point"}
+  "geometry": {"coordinates":[66.89802,36.08172],"type":"Point"}
 }

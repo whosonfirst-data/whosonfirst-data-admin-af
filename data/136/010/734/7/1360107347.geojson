@@ -49,7 +49,7 @@
         "wk:page":"Khoshkak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"b517d7cb8852805a29e1798bb204c986",
+    "wof:geomhash":"3368e9a4cc3583c2ce5ade5ecdd61ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     68.09588000000001,
     34.85081
 ],
-  "geometry": {"coordinates":[68.09588000000001,34.85081],"type":"Point"}
+  "geometry": {"coordinates":[68.09588,34.85081],"type":"Point"}
 }

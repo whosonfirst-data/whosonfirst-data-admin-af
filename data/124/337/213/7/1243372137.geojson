@@ -48,7 +48,7 @@
         "wk:page":"Bazartu"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a478457bb1b8966527d01695e7983369",
+    "wof:geomhash":"f98dc710120fdbd289437bb612da1e04",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     63.29253000000001,
     35.44695
 ],
-  "geometry": {"coordinates":[63.29253000000001,35.44695],"type":"Point"}
+  "geometry": {"coordinates":[63.29253,35.44695],"type":"Point"}
 }

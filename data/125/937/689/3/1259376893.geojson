@@ -50,7 +50,7 @@
         "wk:page":"Garmsir"
     },
     "wof:country":"AF",
-    "wof:geomhash":"fa146dbf99cf7d33b7069dad0f05e947",
+    "wof:geomhash":"3c0ac5a7a8d6c53e4bbd3fcc45428818",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     64.2,
     31.11667000000001
 ],
-  "geometry": {"coordinates":[64.2,31.11667000000001],"type":"Point"}
+  "geometry": {"coordinates":[64.2,31.11667],"type":"Point"}
 }

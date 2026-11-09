@@ -52,7 +52,7 @@
         "wk:page":"Malestan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4f31381ae43c28a13943c6d558c0696b",
+    "wof:geomhash":"d11ac1a7ec761abb22703e0e9a9be1e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     67.17090999999999,
     33.29265
 ],
-  "geometry": {"coordinates":[67.17090999999999,33.29265],"type":"Point"}
+  "geometry": {"coordinates":[67.17091,33.29265],"type":"Point"}
 }

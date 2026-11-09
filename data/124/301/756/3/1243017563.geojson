@@ -50,7 +50,7 @@
         "wk:page":"Bayanan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9f4e6309295bdade252e03fec25fce0f",
+    "wof:geomhash":"b895cba007d494843379d8aeb650b50d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     67.13790999999999,
     35.89682
 ],
-  "geometry": {"coordinates":[67.13790999999999,35.89682],"type":"Point"}
+  "geometry": {"coordinates":[67.13791,35.89682],"type":"Point"}
 }

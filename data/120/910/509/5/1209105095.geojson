@@ -46,7 +46,7 @@
         "wk:page":"Bast%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f8b48ed6628205f57937ebe02d0f8584",
+    "wof:geomhash":"d813226affd0f9f71555e359d54f7b29",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -69,5 +69,5 @@
     67.56683000000001,
     34.87468
 ],
-  "geometry": {"coordinates":[67.56683000000001,34.87468],"type":"Point"}
+  "geometry": {"coordinates":[67.56683,34.87468],"type":"Point"}
 }

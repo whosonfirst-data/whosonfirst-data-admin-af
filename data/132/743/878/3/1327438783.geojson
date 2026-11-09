@@ -50,7 +50,7 @@
         "wk:page":"Tall-e_Mir_Ghazi"
     },
     "wof:country":"AF",
-    "wof:geomhash":"786c8d0827eee710c80242e070baa6c7",
+    "wof:geomhash":"d225b69e1017ab4f206039b05e82f170",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     69.31148,
     35.75957000000001
 ],
-  "geometry": {"coordinates":[69.31148,35.75957000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.31148,35.75957],"type":"Point"}
 }

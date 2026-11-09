@@ -50,7 +50,7 @@
         "wk:page":"Kalat%2C_Badakhshan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4c71807a0384e23bc010772a997aa004",
+    "wof:geomhash":"6e4fc54e6846d0f9c556d254388203ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     70.58948000000002,
     35.96563
 ],
-  "geometry": {"coordinates":[70.58948000000002,35.96563],"type":"Point"}
+  "geometry": {"coordinates":[70.58948,35.96563],"type":"Point"}
 }

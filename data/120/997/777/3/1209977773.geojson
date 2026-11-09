@@ -51,7 +51,7 @@
         "wk:page":"Shkin%2C_Paktika"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4ac6e208affc7c9e71a04b566e6973d4",
+    "wof:geomhash":"00ba1de801c272cb42878aaeaef75442",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.26491999999999,
     32.52606
 ],
-  "geometry": {"coordinates":[69.26491999999999,32.52606],"type":"Point"}
+  "geometry": {"coordinates":[69.26492,32.52606],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Miranza%27i"
     },
     "wof:country":"AF",
-    "wof:geomhash":"260e80ee4a964e516b52147ab032c8c0",
+    "wof:geomhash":"714ec6dcaf8d9910e2b43b190af56c01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     63.28605,
     35.67182000000001
 ],
-  "geometry": {"coordinates":[63.28605,35.67182000000001],"type":"Point"}
+  "geometry": {"coordinates":[63.28605,35.67182],"type":"Point"}
 }

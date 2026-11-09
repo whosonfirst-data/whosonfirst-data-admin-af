@@ -46,7 +46,7 @@
         "wk:page":"Banaq"
     },
     "wof:country":"AF",
-    "wof:geomhash":"915f87043d3a3a1d92c219d2b061bf5b",
+    "wof:geomhash":"2afb7f2d226b63229624ed7962469fec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     67.59351,
     35.32015999999999
 ],
-  "geometry": {"coordinates":[67.59350999999999,35.32015999999999],"type":"Point"}
+  "geometry": {"coordinates":[67.59351,35.32016],"type":"Point"}
 }

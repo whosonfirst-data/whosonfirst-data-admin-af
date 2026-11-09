@@ -49,7 +49,7 @@
         "wk:page":"Magh_Nawul"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a01f2d013a4da20327415f945f059ad2",
+    "wof:geomhash":"9979877b4b4d6ba4d505e713ac4d7870",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.96401999999998,
     36.0456
 ],
-  "geometry": {"coordinates":[70.96401999999998,36.0456],"type":"Point"}
+  "geometry": {"coordinates":[70.96402,36.0456],"type":"Point"}
 }

@@ -45,7 +45,7 @@
         "wk:page":"Band-e_Sheram"
     },
     "wof:country":"AF",
-    "wof:geomhash":"8f88b1f12b96a16ab00b9e800310589d",
+    "wof:geomhash":"e103b105fed952e8458d5181180b972c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     67.09763000000001,
     36.14054
 ],
-  "geometry": {"coordinates":[67.09763000000001,36.14054],"type":"Point"}
+  "geometry": {"coordinates":[67.09763,36.14054],"type":"Point"}
 }

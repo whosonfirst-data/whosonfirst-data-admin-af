@@ -65,7 +65,7 @@
         "wk:page":"Ab_Gaj"
     },
     "wof:country":"AF",
-    "wof:geomhash":"c2bcadcd1abba805f056f75f9efae8f6",
+    "wof:geomhash":"b025e74aa80d3907548c3eb2c3539659",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,5 +91,5 @@
     72.70170999999998,
     36.99574000000001
 ],
-  "geometry": {"coordinates":[72.70170999999998,36.99574000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.70171,36.99574],"type":"Point"}
 }

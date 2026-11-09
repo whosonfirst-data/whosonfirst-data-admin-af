@@ -44,7 +44,7 @@
         "gn:id":1467549
     },
     "wof:country":"AF",
-    "wof:geomhash":"7e1e8a91f58bed6cdfef9075d954abdd",
+    "wof:geomhash":"ed3ad8b0f2c113cbab0592234bae2d4a",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -67,5 +67,5 @@
     70.64414000000002,
     37.58286
 ],
-  "geometry": {"coordinates":[70.64414000000002,37.58286],"type":"Point"}
+  "geometry": {"coordinates":[70.64414,37.58286],"type":"Point"}
 }

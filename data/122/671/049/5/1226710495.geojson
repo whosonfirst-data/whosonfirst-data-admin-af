@@ -60,7 +60,7 @@
         "wk:page":"Shadian%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"5a262da058094b4d0ece4ec1558dc7d1",
+    "wof:geomhash":"bc5886de07551429f8d14c8715bef9fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     67.22046999999999,
     36.51835
 ],
-  "geometry": {"coordinates":[67.22046999999999,36.51835],"type":"Point"}
+  "geometry": {"coordinates":[67.22047,36.51835],"type":"Point"}
 }

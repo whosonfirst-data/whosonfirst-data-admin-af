@@ -52,7 +52,7 @@
         "wk:page":"Qargheh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"89a42dbd4ec3a1f92a06910cfdb37718",
+    "wof:geomhash":"1d02468f07b16e107644d8e25ddf21ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     69.05521999999999,
     34.54643
 ],
-  "geometry": {"coordinates":[69.05521999999999,34.54643],"type":"Point"}
+  "geometry": {"coordinates":[69.05522,34.54643],"type":"Point"}
 }

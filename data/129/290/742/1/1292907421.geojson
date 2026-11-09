@@ -52,7 +52,7 @@
         "wk:page":"Hojm-e_Pa%27in"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f8c66085eb45150b6b446efd34082053",
+    "wof:geomhash":"4aa51586369b34a94348eceb487b1273",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.85358000000002,
     38.36716
 ],
-  "geometry": {"coordinates":[70.85358000000002,38.36716],"type":"Point"}
+  "geometry": {"coordinates":[70.85358,38.36716],"type":"Point"}
 }

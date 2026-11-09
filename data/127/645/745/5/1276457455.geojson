@@ -53,7 +53,7 @@
         "wk:page":"Ambaran"
     },
     "wof:country":"AF",
-    "wof:geomhash":"dc285d609d3bd7b2a4f34f7049b6119b",
+    "wof:geomhash":"12ece93dc52ccb2124f69f1606438185",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     70.38786999999998,
     37.75223
 ],
-  "geometry": {"coordinates":[70.38786999999998,37.75223],"type":"Point"}
+  "geometry": {"coordinates":[70.38787,37.75223],"type":"Point"}
 }

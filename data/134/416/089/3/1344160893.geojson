@@ -59,7 +59,7 @@
         "wk:page":"Baryavan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"5af7dc5b8ffd4e5c510162ce91d753d8",
+    "wof:geomhash":"80af80f57bf8b7a6ceda4773a4fa1a4f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     70.45728000000003,
     37.53227
 ],
-  "geometry": {"coordinates":[70.45728000000003,37.53227],"type":"Point"}
+  "geometry": {"coordinates":[70.45728,37.53227],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Nur_Gal"
     },
     "wof:country":"AF",
-    "wof:geomhash":"427647e2d2366bc0bb5be601b9162a69",
+    "wof:geomhash":"53e78833e30b9cce916aa496fafe1763",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     70.76498000000002,
     34.61340999999999
 ],
-  "geometry": {"coordinates":[70.76498000000002,34.61340999999999],"type":"Point"}
+  "geometry": {"coordinates":[70.76498,34.61341],"type":"Point"}
 }

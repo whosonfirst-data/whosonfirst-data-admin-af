@@ -49,7 +49,7 @@
         "wk:page":"Ingishkah"
     },
     "wof:country":"AF",
-    "wof:geomhash":"402ff14405100c158e9f5afa0b1132ca",
+    "wof:geomhash":"1d0f303cff7556114b1b19f0863de2ea",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -72,5 +72,5 @@
     65.86901999999999,
     36.19939
 ],
-  "geometry": {"coordinates":[65.86901999999999,36.19939],"type":"Point"}
+  "geometry": {"coordinates":[65.86902,36.19939],"type":"Point"}
 }

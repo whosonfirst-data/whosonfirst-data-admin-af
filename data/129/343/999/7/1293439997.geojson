@@ -57,7 +57,7 @@
         "wk:page":"Meydan%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"81df790458145405e546fd5ee43a381f",
+    "wof:geomhash":"b81ec37d2823056201f520cd0fe53f94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     66.91788000000001,
     36.90572
 ],
-  "geometry": {"coordinates":[66.91788000000001,36.90572],"type":"Point"}
+  "geometry": {"coordinates":[66.91788,36.90572],"type":"Point"}
 }

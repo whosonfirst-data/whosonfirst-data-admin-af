@@ -50,7 +50,7 @@
         "wk:page":"Mangwal%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"8186618b641343c2d7a8d3f375132c08",
+    "wof:geomhash":"af73d67b20d4e97a093db300b9451234",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     70.82798000000003,
     34.60241
 ],
-  "geometry": {"coordinates":[70.82798000000003,34.60241],"type":"Point"}
+  "geometry": {"coordinates":[70.82798,34.60241],"type":"Point"}
 }

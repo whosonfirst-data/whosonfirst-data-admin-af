@@ -51,7 +51,7 @@
         "wk:page":"Tarang"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6ec39ee54f52273206339172bbf2b00f",
+    "wof:geomhash":"205bbafdebc88604006c39d20d536bc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.05299000000002,
     36.92058
 ],
-  "geometry": {"coordinates":[71.05299000000002,36.92058],"type":"Point"}
+  "geometry": {"coordinates":[71.05299,36.92058],"type":"Point"}
 }

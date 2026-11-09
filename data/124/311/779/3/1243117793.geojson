@@ -50,7 +50,7 @@
         "wk:page":"Dalkhaki"
     },
     "wof:country":"AF",
-    "wof:geomhash":"bf91d9f61862aae87318da59319ca13a",
+    "wof:geomhash":"d8c665d81adb6002df7bbab3163b5d8d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     67.95456999999999,
     36.34727
 ],
-  "geometry": {"coordinates":[67.95456999999999,36.34727],"type":"Point"}
+  "geometry": {"coordinates":[67.95457,36.34727],"type":"Point"}
 }

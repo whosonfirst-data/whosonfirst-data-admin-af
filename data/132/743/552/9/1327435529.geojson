@@ -51,7 +51,7 @@
         "wk:page":"Volar%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"ed7ce6e658f318cb71ff5566790581df",
+    "wof:geomhash":"c04a0a651b0ef9c77ab1867a4ff20a83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     70.76191999999998,
     37.07205
 ],
-  "geometry": {"coordinates":[70.76191999999998,37.07205],"type":"Point"}
+  "geometry": {"coordinates":[70.76192,37.07205],"type":"Point"}
 }

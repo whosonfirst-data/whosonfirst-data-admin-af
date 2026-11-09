@@ -51,7 +51,7 @@
         "wk:page":"Deh_Bala"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4ea6a2722fd4692c02cad7553358be8b",
+    "wof:geomhash":"4921081272a0167e377e0a3771bc3889",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     70.47178000000002,
     34.09336
 ],
-  "geometry": {"coordinates":[70.47178000000002,34.09336],"type":"Point"}
+  "geometry": {"coordinates":[70.47178,34.09336],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Shashan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"743592d13bf5d8c783a9562ed87816f0",
+    "wof:geomhash":"0c589dbc42e5ac3481d7a679cce1f489",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     69.34581,
     35.78964000000001
 ],
-  "geometry": {"coordinates":[69.34581,35.78964000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.34581,35.78964],"type":"Point"}
 }

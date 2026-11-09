@@ -49,7 +49,7 @@
         "wk:page":"Suduj"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f7500a9f85965dd35e833acf8976088e",
+    "wof:geomhash":"c53ba33748222c1c1868efa2ec9cfc54",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     71.53598000000002,
     37.69442
 ],
-  "geometry": {"coordinates":[71.53598000000002,37.69442],"type":"Point"}
+  "geometry": {"coordinates":[71.53598,37.69442],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Qal%60eh-ye_Vali"
     },
     "wof:country":"AF",
-    "wof:geomhash":"2c8647b5a5ca2c3d85b617195817e48d",
+    "wof:geomhash":"c97208820f95c0ecf58581a519fcf237",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     63.76009000000001,
     35.77983
 ],
-  "geometry": {"coordinates":[63.76009000000001,35.77983],"type":"Point"}
+  "geometry": {"coordinates":[63.76009,35.77983],"type":"Point"}
 }

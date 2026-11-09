@@ -57,7 +57,7 @@
         "wk:page":"Ispin_Kai"
     },
     "wof:country":"AF",
-    "wof:geomhash":"1cdb0d667c555f92f8db8e05e5f9bb1c",
+    "wof:geomhash":"b4ca33efe2a1bd50207572a000fa4e9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     66.65884,
     36.78749000000001
 ],
-  "geometry": {"coordinates":[66.65884,36.78749000000001],"type":"Point"}
+  "geometry": {"coordinates":[66.65884,36.78749],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Jandar_Gol-e_Sofla"
     },
     "wof:country":"AF",
-    "wof:geomhash":"569873de263ef3379d1c2e524abc3fcf",
+    "wof:geomhash":"a5fb77d0f3d869a787dfee4fb0a7c14f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     68.03204000000001,
     34.80306
 ],
-  "geometry": {"coordinates":[68.03204000000001,34.80306],"type":"Point"}
+  "geometry": {"coordinates":[68.03204,34.80306],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Qedamkhel"
     },
     "wof:country":"AF",
-    "wof:geomhash":"fb8e0028f46fa23122e38bfe2e2a21fe",
+    "wof:geomhash":"62bce826d40482733e222790e2d693de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     68.39608,
     33.26665999999999
 ],
-  "geometry": {"coordinates":[68.39608,33.26665999999999],"type":"Point"}
+  "geometry": {"coordinates":[68.39608,33.26666],"type":"Point"}
 }

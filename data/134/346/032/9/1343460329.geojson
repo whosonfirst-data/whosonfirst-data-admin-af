@@ -50,7 +50,7 @@
         "wk:page":"Dahan-e_Siahqowl"
     },
     "wof:country":"AF",
-    "wof:geomhash":"fcb36b9fb5c35f72d6c770b4676ec9ba",
+    "wof:geomhash":"a4a577367b1d456edeabb4d72092c477",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     68.40999000000001,
     35.558
 ],
-  "geometry": {"coordinates":[68.40999000000001,35.558],"type":"Point"}
+  "geometry": {"coordinates":[68.40999,35.558],"type":"Point"}
 }

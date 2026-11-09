@@ -51,7 +51,7 @@
         "wk:page":"Sar_Shakh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"670f73aca0b9020692063bb17582899d",
+    "wof:geomhash":"52542ac664c531fdd09cc223f837551a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     71.52053000000002,
     36.85749000000001
 ],
-  "geometry": {"coordinates":[71.52053000000002,36.85749000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.52053,36.85749],"type":"Point"}
 }

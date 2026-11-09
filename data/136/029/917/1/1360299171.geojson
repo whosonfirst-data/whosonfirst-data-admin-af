@@ -53,7 +53,7 @@
         "wk:page":"Khazget"
     },
     "wof:country":"AF",
-    "wof:geomhash":"643964f7bf3e720ab69f455ca63f3817",
+    "wof:geomhash":"037984f57aff7b9dca2001db0c3327eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     72.94984000000002,
     36.94699
 ],
-  "geometry": {"coordinates":[72.94984000000002,36.94699],"type":"Point"}
+  "geometry": {"coordinates":[72.94984,36.94699],"type":"Point"}
 }

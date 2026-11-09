@@ -53,7 +53,7 @@
         "wk:page":"Chahi"
     },
     "wof:country":"AF",
-    "wof:geomhash":"ab99ec0a50d3a70a7306dde076b43689",
+    "wof:geomhash":"a2389fe13fc76214d939d92310526478",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     66.68956999999999,
     37.00371
 ],
-  "geometry": {"coordinates":[66.68956999999999,37.00371],"type":"Point"}
+  "geometry": {"coordinates":[66.68957,37.00371],"type":"Point"}
 }

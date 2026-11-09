@@ -59,7 +59,7 @@
         "wk:page":"Obe%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a94a5293023e8b9ccfe46d1eac95c020",
+    "wof:geomhash":"34f8bf65678e3b220e460928ca20bc2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     63.17639000000001,
     34.36972
 ],
-  "geometry": {"coordinates":[63.17639000000001,34.36972],"type":"Point"}
+  "geometry": {"coordinates":[63.17639,34.36972],"type":"Point"}
 }

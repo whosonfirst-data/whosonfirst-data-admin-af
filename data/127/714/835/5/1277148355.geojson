@@ -55,7 +55,7 @@
         "wk:page":"Bagrami"
     },
     "wof:country":"AF",
-    "wof:geomhash":"5ab63487a4e21a18881120f8a4400ad7",
+    "wof:geomhash":"fefea6ac0b000ce826037c66cc1d6b8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     69.27427,
     34.49375999999999
 ],
-  "geometry": {"coordinates":[69.27427,34.49375999999999],"type":"Point"}
+  "geometry": {"coordinates":[69.27427,34.49376],"type":"Point"}
 }

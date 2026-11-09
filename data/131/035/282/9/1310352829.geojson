@@ -52,7 +52,7 @@
         "wk:page":"Band-e_Shuy"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a84b4698190487eed584e0157b5d603b",
+    "wof:geomhash":"af0b9ede146e1b5b185b281287d8adab",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     67.44613000000001,
     34.38287
 ],
-  "geometry": {"coordinates":[67.44613000000001,34.38287],"type":"Point"}
+  "geometry": {"coordinates":[67.44613,34.38287],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Yaram-e_Sofla"
     },
     "wof:country":"AF",
-    "wof:geomhash":"d656286f318d2e3447099f6cdf96a833",
+    "wof:geomhash":"8b516b3e09bd5c1490689d9d5ad5299a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     69.262,
     35.92769000000001
 ],
-  "geometry": {"coordinates":[69.262,35.92769000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.262,35.92769],"type":"Point"}
 }

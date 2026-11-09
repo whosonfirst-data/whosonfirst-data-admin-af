@@ -55,7 +55,7 @@
         "wk:page":"Qarabolaq"
     },
     "wof:country":"AF",
-    "wof:geomhash":"bd73983a717fcf24799c226cffb16177",
+    "wof:geomhash":"3080f27f4a0dfb65b556eb69428b5a98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     73.76666999999998,
     37.41667
 ],
-  "geometry": {"coordinates":[73.76666999999998,37.41667],"type":"Point"}
+  "geometry": {"coordinates":[73.76667,37.41667],"type":"Point"}
 }

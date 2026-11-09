@@ -51,7 +51,7 @@
         "wk:page":"Darreh-ye_Shu"
     },
     "wof:country":"AF",
-    "wof:geomhash":"2bbfa96529163fd4f978ed94ea5b18b2",
+    "wof:geomhash":"7bd43acee8844643fdd5578ce1587517",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     69.48723000000001,
     35.55070999999999
 ],
-  "geometry": {"coordinates":[69.48723000000001,35.55070999999999],"type":"Point"}
+  "geometry": {"coordinates":[69.48723,35.55071],"type":"Point"}
 }

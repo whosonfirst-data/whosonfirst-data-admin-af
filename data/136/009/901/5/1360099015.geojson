@@ -55,7 +55,7 @@
         "wk:page":"Khaneqa%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6e42fa73f840629ae0eabdab7b763599",
+    "wof:geomhash":"fa8a41b52fef525f581e0da92a821632",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     70.69003000000002,
     36.54503
 ],
-  "geometry": {"coordinates":[70.69003000000002,36.54503],"type":"Point"}
+  "geometry": {"coordinates":[70.69003,36.54503],"type":"Point"}
 }

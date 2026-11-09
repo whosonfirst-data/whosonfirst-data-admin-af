@@ -58,7 +58,7 @@
         "wk:page":"Almoghul"
     },
     "wof:country":"AF",
-    "wof:geomhash":"2160b9d6d0bfe51c03cf09faa213083f",
+    "wof:geomhash":"d346ce318197922c8d7c2f839749d548",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     66.63793000000001,
     36.03177
 ],
-  "geometry": {"coordinates":[66.63793000000001,36.03177],"type":"Point"}
+  "geometry": {"coordinates":[66.63793,36.03177],"type":"Point"}
 }

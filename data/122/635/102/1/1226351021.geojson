@@ -50,7 +50,7 @@
         "wk:page":"Padeh-ye_Nowkdari"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6ed654cc26279b3c74e38d364479056d",
+    "wof:geomhash":"fee610427fec54acffeabea18d102001",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     62.93978000000001,
     34.8947
 ],
-  "geometry": {"coordinates":[62.93978000000001,34.8947],"type":"Point"}
+  "geometry": {"coordinates":[62.93978,34.8947],"type":"Point"}
 }

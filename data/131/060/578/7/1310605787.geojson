@@ -63,7 +63,7 @@
         "wk:page":"Yakawlang"
     },
     "wof:country":"AF",
-    "wof:geomhash":"df9adae75041c53940ac973408c38263",
+    "wof:geomhash":"9369ae1b846f64a1f86b92a623768152",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     66.97379000000001,
     34.73525
 ],
-  "geometry": {"coordinates":[66.97379000000001,34.73525],"type":"Point"}
+  "geometry": {"coordinates":[66.97379,34.73525],"type":"Point"}
 }

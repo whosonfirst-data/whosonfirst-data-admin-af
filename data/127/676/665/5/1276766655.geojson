@@ -54,7 +54,7 @@
         "wk:page":"Kharat"
     },
     "wof:country":"AF",
-    "wof:geomhash":"d0d6c47e8327ccad1a70e46613742a16",
+    "wof:geomhash":"371fbde8a6bd87b43e40392e2cc1244f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     72.96443000000002,
     36.94832
 ],
-  "geometry": {"coordinates":[72.96443000000002,36.94832],"type":"Point"}
+  "geometry": {"coordinates":[72.96443,36.94832],"type":"Point"}
 }

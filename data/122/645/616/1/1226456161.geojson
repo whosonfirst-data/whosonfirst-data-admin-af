@@ -52,7 +52,7 @@
         "wk:page":"Yalur"
     },
     "wof:country":"AF",
-    "wof:geomhash":"543f65c59198b412ae4b0a57f772c642",
+    "wof:geomhash":"df047663e66536aa749babffbe6e3356",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     70.2713,
     37.62374000000001
 ],
-  "geometry": {"coordinates":[70.2713,37.62374000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.2713,37.62374],"type":"Point"}
 }

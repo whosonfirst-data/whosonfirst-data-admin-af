@@ -55,7 +55,7 @@
         "wk:page":"Rom%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"cc7e2b216c9671b1f66dea0149ae30ac",
+    "wof:geomhash":"803e4839487d2fd413713eabcd661f65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     67.10351999999999,
     35.70065
 ],
-  "geometry": {"coordinates":[67.10351999999999,35.70065],"type":"Point"}
+  "geometry": {"coordinates":[67.10352,35.70065],"type":"Point"}
 }

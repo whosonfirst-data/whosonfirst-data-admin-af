@@ -77,7 +77,7 @@
         "wk:page":"Chaki_Wardak_District"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a32d197a6158a56d70cb578db5553c7f",
+    "wof:geomhash":"7fac3ca8faabae8191abe558d5ec7850",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -103,5 +103,5 @@
     68.57866,
     34.10769000000001
 ],
-  "geometry": {"coordinates":[68.57866,34.10769000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.57866,34.10769],"type":"Point"}
 }

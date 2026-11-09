@@ -53,7 +53,7 @@
         "wk:page":"Bariki"
     },
     "wof:country":"AF",
-    "wof:geomhash":"0d1b6c357405f78c82ba6e0d60430af6",
+    "wof:geomhash":"3b1a6f7a048fd03158c30b36212652c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     68.04921999999999,
     34.88927
 ],
-  "geometry": {"coordinates":[68.04921999999999,34.88927],"type":"Point"}
+  "geometry": {"coordinates":[68.04922,34.88927],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Jowkar"
     },
     "wof:country":"AF",
-    "wof:geomhash":"7dab1f37988408251d456d6279535258",
+    "wof:geomhash":"4409a7b8e7933d150cedeccfe9c2b7da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     63.37042,
     35.52164000000001
 ],
-  "geometry": {"coordinates":[63.37042,35.52164000000001],"type":"Point"}
+  "geometry": {"coordinates":[63.37042,35.52164],"type":"Point"}
 }

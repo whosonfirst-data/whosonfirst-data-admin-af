@@ -53,7 +53,7 @@
         "wk:page":"Balkhab"
     },
     "wof:country":"AF",
-    "wof:geomhash":"0239497885f32fb9c13fdc8ae938b727",
+    "wof:geomhash":"3ccfc7e66e1079edde29d1b908fc0a3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     66.50636999999999,
     35.50173
 ],
-  "geometry": {"coordinates":[66.50636999999999,35.50173],"type":"Point"}
+  "geometry": {"coordinates":[66.50637,35.50173],"type":"Point"}
 }

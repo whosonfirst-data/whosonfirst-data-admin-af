@@ -52,7 +52,7 @@
         "wk:page":"Banow"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f30afed24bf0a149bd2e1ca411f0fcbc",
+    "wof:geomhash":"c96bf72911db1f5af34d875b42e20060",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     69.26019000000001,
     35.63348
 ],
-  "geometry": {"coordinates":[69.26019000000001,35.63348],"type":"Point"}
+  "geometry": {"coordinates":[69.26019,35.63348],"type":"Point"}
 }

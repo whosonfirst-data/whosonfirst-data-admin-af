@@ -49,7 +49,7 @@
         "wk:page":"Chosnukel"
     },
     "wof:country":"AF",
-    "wof:geomhash":"c85e2cef89e6f28c49508c7cd05c510d",
+    "wof:geomhash":"d23ef5f927e6f3e435c5e6c65847abc6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.33445999999999,
     37.74328
 ],
-  "geometry": {"coordinates":[70.33445999999999,37.74328],"type":"Point"}
+  "geometry": {"coordinates":[70.33446,37.74328],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Boria_Bal"
     },
     "wof:country":"AF",
-    "wof:geomhash":"093c43f642db39727343d057a70d0e60",
+    "wof:geomhash":"3e22cf9f4be06655d5c66d7954ebbeb1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     67.23555999999999,
     37.17
 ],
-  "geometry": {"coordinates":[67.23555999999999,37.17],"type":"Point"}
+  "geometry": {"coordinates":[67.23556,37.17],"type":"Point"}
 }

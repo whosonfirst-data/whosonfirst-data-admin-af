@@ -50,7 +50,7 @@
         "wk:page":"Dahan-e_Kanak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9b0a26e0b784a115ec37a42ac57de351",
+    "wof:geomhash":"b1e9eb37b794912ae0bce75e6f0bfb44",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     66.86768000000001,
     34.72925
 ],
-  "geometry": {"coordinates":[66.86768000000001,34.72925],"type":"Point"}
+  "geometry": {"coordinates":[66.86768,34.72925],"type":"Point"}
 }

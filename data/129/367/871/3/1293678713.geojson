@@ -139,7 +139,7 @@
         "wk:page":"Chaghcharan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"88b1dc3131e453db5ace76284ab47d6a",
+    "wof:geomhash":"a067ba60cd8f505d9badcada405c67a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -167,5 +167,5 @@
     65.25093000000001,
     34.51952
 ],
-  "geometry": {"coordinates":[65.25093000000001,34.51952],"type":"Point"}
+  "geometry": {"coordinates":[65.25093,34.51952],"type":"Point"}
 }

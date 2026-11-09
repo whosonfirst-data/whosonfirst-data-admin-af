@@ -52,7 +52,7 @@
         "wk:page":"Tal-e_%60Asheqan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"37dfe621a12bebe89d4f3b24b006e3d1",
+    "wof:geomhash":"c87508047a8da0d94c86443b64feaa12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     66.85285999999999,
     35.61165
 ],
-  "geometry": {"coordinates":[66.85285999999999,35.61165],"type":"Point"}
+  "geometry": {"coordinates":[66.85286,35.61165],"type":"Point"}
 }

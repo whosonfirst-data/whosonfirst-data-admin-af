@@ -82,7 +82,7 @@
         "wk:page":"Char_Dara_District"
     },
     "wof:country":"AF",
-    "wof:geomhash":"dd93a54e2c39a547e428e4fb5c98a945",
+    "wof:geomhash":"c9bf1a0fa4a23ec08b4468fe69e5ca1f",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -105,5 +105,5 @@
     68.79093,
     36.69132000000001
 ],
-  "geometry": {"coordinates":[68.79093,36.69132000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.79093,36.69132],"type":"Point"}
 }

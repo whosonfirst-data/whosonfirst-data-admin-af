@@ -49,7 +49,7 @@
         "wk:page":"Khak-e_Babeh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"89353f5ca21f6271a202470a44491999",
+    "wof:geomhash":"3934b997c5cd1d5a3d67eec114fdb866",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -72,5 +72,5 @@
     68.17548000000001,
     34.88711
 ],
-  "geometry": {"coordinates":[68.17548000000001,34.88711],"type":"Point"}
+  "geometry": {"coordinates":[68.17548,34.88711],"type":"Point"}
 }

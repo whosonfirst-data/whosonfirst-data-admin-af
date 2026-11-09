@@ -49,7 +49,7 @@
         "wk:page":"Garm_Ab"
     },
     "wof:country":"AF",
-    "wof:geomhash":"90e9e2de117de27aa007212d6b59a23d",
+    "wof:geomhash":"f4132481dddfc3099ab463da528deec0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     67.46139000000001,
     33.9675
 ],
-  "geometry": {"coordinates":[67.46139000000001,33.9675],"type":"Point"}
+  "geometry": {"coordinates":[67.46139,33.9675],"type":"Point"}
 }

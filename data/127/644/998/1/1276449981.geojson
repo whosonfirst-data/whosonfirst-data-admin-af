@@ -56,7 +56,7 @@
         "wk:page":"Do_Ab-e_Valian"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a99fae9d8f238fee7ba2cabd374923d4",
+    "wof:geomhash":"dd3de16b0b70d446036b9fdb3cbec7c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     68.8783,
     35.47969000000001
 ],
-  "geometry": {"coordinates":[68.8783,35.47969000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.8783,35.47969],"type":"Point"}
 }

@@ -55,7 +55,7 @@
         "wk:page":"Qal%60eh-ye_Bar_Panj"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f3809e3b9f9426d366d855eb7be71950",
+    "wof:geomhash":"67c41071b0d4b981302ec14e21bfd994",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     71.48288000000002,
     37.5581
 ],
-  "geometry": {"coordinates":[71.48288000000002,37.5581],"type":"Point"}
+  "geometry": {"coordinates":[71.48288,37.5581],"type":"Point"}
 }

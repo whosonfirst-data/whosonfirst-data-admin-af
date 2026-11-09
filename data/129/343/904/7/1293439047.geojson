@@ -52,7 +52,7 @@
         "wk:page":"Band-e_Sareq"
     },
     "wof:country":"AF",
-    "wof:geomhash":"59e7c06037d975bb3bb5d086a10405da",
+    "wof:geomhash":"de8bb9165741f4005227e0ae5d255417",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     67.33294000000001,
     36.11199000000001
 ],
-  "geometry": {"coordinates":[67.33294000000001,36.11199000000001],"type":"Point"}
+  "geometry": {"coordinates":[67.33294,36.11199],"type":"Point"}
 }

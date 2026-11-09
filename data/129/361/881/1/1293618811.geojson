@@ -47,7 +47,7 @@
         "wk:page":"Aynak%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"51bdc5b003c7cdea36bbc33d565640fd",
+    "wof:geomhash":"5d48c1a1d9aea37452a81a4696721217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     66.43366999999999,
     33.99733
 ],
-  "geometry": {"coordinates":[66.43366999999999,33.99733],"type":"Point"}
+  "geometry": {"coordinates":[66.43367,33.99733],"type":"Point"}
 }

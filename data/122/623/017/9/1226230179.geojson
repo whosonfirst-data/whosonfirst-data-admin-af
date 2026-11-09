@@ -53,7 +53,7 @@
         "wk:page":"Khvosh_Asia"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a25126b8a93f9b656ca6413f50e5f921",
+    "wof:geomhash":"8341f91c02a10f07f8f12c211e41b7ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     62.34696,
     34.96785999999999
 ],
-  "geometry": {"coordinates":[62.34696,34.96785999999999],"type":"Point"}
+  "geometry": {"coordinates":[62.34696,34.96786],"type":"Point"}
 }

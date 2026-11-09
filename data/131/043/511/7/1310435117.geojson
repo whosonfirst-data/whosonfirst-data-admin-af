@@ -75,7 +75,7 @@
         "wk:page":"Nili%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"b19e4e556a80d29f46eee4b80cc1fba4",
+    "wof:geomhash":"c7b5e43f3286510752166bc278cae153",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     66.13023000000001,
     33.72178
 ],
-  "geometry": {"coordinates":[66.13023000000001,33.72178],"type":"Point"}
+  "geometry": {"coordinates":[66.13023,33.72178],"type":"Point"}
 }

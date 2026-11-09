@@ -48,7 +48,7 @@
         "wk:page":"Gustaw%2C_Afghanistan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4679b52e0d385af78c72dc055f84f3cb",
+    "wof:geomhash":"8b0f454c3f3b16c1cfdd1bef75189829",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     73.89891999999998,
     37.02374
 ],
-  "geometry": {"coordinates":[73.89891999999998,37.02374],"type":"Point"}
+  "geometry": {"coordinates":[73.89892,37.02374],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Jerwu_Bala"
     },
     "wof:country":"AF",
-    "wof:geomhash":"6c2de54167c20c2ce80aa5b97ae82fdd",
+    "wof:geomhash":"8b358664fc1731f3e84f17921c8a3b67",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     70.45215999999998,
     37.81426
 ],
-  "geometry": {"coordinates":[70.45215999999998,37.81426],"type":"Point"}
+  "geometry": {"coordinates":[70.45216,37.81426],"type":"Point"}
 }

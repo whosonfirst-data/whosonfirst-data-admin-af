@@ -53,7 +53,7 @@
         "wk:page":"Talkhian"
     },
     "wof:country":"AF",
-    "wof:geomhash":"8f07416ca6987675110d3fc8e65e848a",
+    "wof:geomhash":"2f5ff46560b03b32106ffec18e2e483a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     68.68321999999999,
     35.3993
 ],
-  "geometry": {"coordinates":[68.68321999999999,35.3993],"type":"Point"}
+  "geometry": {"coordinates":[68.68322,35.3993],"type":"Point"}
 }

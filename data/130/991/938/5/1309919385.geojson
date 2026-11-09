@@ -47,7 +47,7 @@
         "wk:page":"Darbandak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"a256465a8578ef7eebb9495b5aa78eb9",
+    "wof:geomhash":"ff62507f0d417074a1ccfafb6652288d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     70.17848000000001,
     37.91938
 ],
-  "geometry": {"coordinates":[70.17848000000001,37.91938],"type":"Point"}
+  "geometry": {"coordinates":[70.17848,37.91938],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Baluchi%2C_Balkh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"426409c5b9f945c2856650315a720e9f",
+    "wof:geomhash":"ed0572e7cbb92be98773a697d2476f8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     66.91790999999999,
     36.35156
 ],
-  "geometry": {"coordinates":[66.91790999999999,36.35156],"type":"Point"}
+  "geometry": {"coordinates":[66.91791,36.35156],"type":"Point"}
 }

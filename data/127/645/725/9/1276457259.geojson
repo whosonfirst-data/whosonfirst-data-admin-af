@@ -57,7 +57,7 @@
         "wk:page":"Bazgir%2C_Badakhshan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9343c300804c687a7eb9465c1b909b0b",
+    "wof:geomhash":"b95a6f9eb8fa74467b167df94a58974a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,5 +83,5 @@
     71.46110999999998,
     36.64097
 ],
-  "geometry": {"coordinates":[71.46110999999998,36.64097],"type":"Point"}
+  "geometry": {"coordinates":[71.46111,36.64097],"type":"Point"}
 }

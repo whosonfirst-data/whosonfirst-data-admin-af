@@ -58,7 +58,7 @@
         "wk:page":"Shahab_od_Din"
     },
     "wof:country":"AF",
-    "wof:geomhash":"0f0e3b49a217c8060e09003fac0828c5",
+    "wof:geomhash":"0f838f0ba71e2c5188c7c23f32b9deb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,5 +84,5 @@
     68.6454,
     36.03534000000001
 ],
-  "geometry": {"coordinates":[68.6454,36.03534000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.6454,36.03534],"type":"Point"}
 }

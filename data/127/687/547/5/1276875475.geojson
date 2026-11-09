@@ -53,7 +53,7 @@
         "wk:page":"Chakav"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4283a442396eaa0a7ee7bb733d2fc930",
+    "wof:geomhash":"cf0c9c25db5e5dca69051e3a274ea86e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     63.04573000000001,
     34.75530999999999
 ],
-  "geometry": {"coordinates":[63.04573000000001,34.75530999999999],"type":"Point"}
+  "geometry": {"coordinates":[63.04573,34.75531],"type":"Point"}
 }

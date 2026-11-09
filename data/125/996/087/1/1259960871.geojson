@@ -51,7 +51,7 @@
         "wk:page":"Bidak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"85329ea9bf66fde547f6e95a7e828512",
+    "wof:geomhash":"1da9f74d1103a9e0a3adb7dbd76f8c0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     62.52303000000001,
     34.69557
 ],
-  "geometry": {"coordinates":[62.52303000000001,34.69557],"type":"Point"}
+  "geometry": {"coordinates":[62.52303,34.69557],"type":"Point"}
 }

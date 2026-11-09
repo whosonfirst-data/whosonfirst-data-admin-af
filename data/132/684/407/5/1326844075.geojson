@@ -54,7 +54,7 @@
         "wk:page":"Dudgah"
     },
     "wof:country":"AF",
-    "wof:geomhash":"4905e2736a3f5f03fb3d304c89f06e3f",
+    "wof:geomhash":"2995bcd2ea7a0657330b3af4a0ae1fc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     70.38438000000002,
     36.76059
 ],
-  "geometry": {"coordinates":[70.38438000000002,36.76059],"type":"Point"}
+  "geometry": {"coordinates":[70.38438,36.76059],"type":"Point"}
 }

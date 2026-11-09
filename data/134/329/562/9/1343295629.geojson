@@ -49,7 +49,7 @@
         "wk:page":"Islam_Towarabaf"
     },
     "wof:country":"AF",
-    "wof:geomhash":"9826dd274333a0ae0cbfb6e28512c020",
+    "wof:geomhash":"0664b6f3a29fa709d43be2e72f099e4d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     66.23364000000001,
     37.04315
 ],
-  "geometry": {"coordinates":[66.23364000000001,37.04315],"type":"Point"}
+  "geometry": {"coordinates":[66.23364,37.04315],"type":"Point"}
 }

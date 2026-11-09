@@ -50,7 +50,7 @@
         "wk:page":"Eskar"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f9891220c528ab3ee0bb51035a3752f1",
+    "wof:geomhash":"75d6c075c5459e22ebdb8bb07a369e16",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     68.52304000000001,
     35.55455999999999
 ],
-  "geometry": {"coordinates":[68.52304000000001,35.55455999999999],"type":"Point"}
+  "geometry": {"coordinates":[68.52304,35.55456],"type":"Point"}
 }

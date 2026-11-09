@@ -50,7 +50,7 @@
         "wk:page":"Shekastegan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"ac416b272468782afcbdcbcd4147d244",
+    "wof:geomhash":"16092e758160dc266263a9b08df7acf7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     70.15831999999999,
     36.7386
 ],
-  "geometry": {"coordinates":[70.15831999999999,36.7386],"type":"Point"}
+  "geometry": {"coordinates":[70.15832,36.7386],"type":"Point"}
 }

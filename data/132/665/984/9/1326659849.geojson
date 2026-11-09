@@ -50,7 +50,7 @@
         "wk:page":"Ab_Kolok"
     },
     "wof:country":"AF",
-    "wof:geomhash":"1222d72e6d85ab2d18abe3178a538a03",
+    "wof:geomhash":"fa522681304eecbb71dd9a3b12fa140a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     66.04333000000001,
     37.05972
 ],
-  "geometry": {"coordinates":[66.04333000000001,37.05972],"type":"Point"}
+  "geometry": {"coordinates":[66.04333,37.05972],"type":"Point"}
 }

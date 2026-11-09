@@ -51,7 +51,7 @@
         "wk:page":"Qowl_Taq"
     },
     "wof:country":"AF",
-    "wof:geomhash":"c93cd0c1e5738672701477d388df8dcb",
+    "wof:geomhash":"5cbe7804cc90a7587a3a7be11faa7ccf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     66.76276999999999,
     37.07356
 ],
-  "geometry": {"coordinates":[66.76276999999999,37.07356],"type":"Point"}
+  "geometry": {"coordinates":[66.76277,37.07356],"type":"Point"}
 }

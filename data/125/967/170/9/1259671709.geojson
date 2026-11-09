@@ -50,7 +50,7 @@
         "wk:page":"Sangbor"
     },
     "wof:country":"AF",
-    "wof:geomhash":"141375a2e9936084b1b853876b5c680e",
+    "wof:geomhash":"5b2135e1606a1391ad9e2aa4f4e40b8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     62.30546999999999,
     35.02841
 ],
-  "geometry": {"coordinates":[62.30546999999999,35.02841],"type":"Point"}
+  "geometry": {"coordinates":[62.30547,35.02841],"type":"Point"}
 }

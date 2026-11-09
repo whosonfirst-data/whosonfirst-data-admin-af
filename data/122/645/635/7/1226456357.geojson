@@ -54,7 +54,7 @@
         "wk:page":"Khal_Khan"
     },
     "wof:country":"AF",
-    "wof:geomhash":"95aca8dc764882e9ead075b60c2cacf8",
+    "wof:geomhash":"bbd1fb207ba023b43909bcb2148d15e9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     71.35186999999998,
     36.54011
 ],
-  "geometry": {"coordinates":[71.35186999999998,36.54011],"type":"Point"}
+  "geometry": {"coordinates":[71.35187,36.54011],"type":"Point"}
 }

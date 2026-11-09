@@ -51,7 +51,7 @@
         "wk:page":"Meymik"
     },
     "wof:country":"AF",
-    "wof:geomhash":"1013bb597ae85035a9e233c396621704",
+    "wof:geomhash":"2a7538fb26876b8cd49a322792c0e554",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     70.55944000000002,
     38.24015
 ],
-  "geometry": {"coordinates":[70.55944000000002,38.24015],"type":"Point"}
+  "geometry": {"coordinates":[70.55944,38.24015],"type":"Point"}
 }

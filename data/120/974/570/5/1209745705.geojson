@@ -121,7 +121,7 @@
         "wk:page":"Tarinkot"
     },
     "wof:country":"AF",
-    "wof:geomhash":"093f059b8a4852dbecb4657eeba82689",
+    "wof:geomhash":"befbc6a51082dc5818a73a929f20cd81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -149,5 +149,5 @@
     65.87805999999999,
     32.62998
 ],
-  "geometry": {"coordinates":[65.87805999999999,32.62998],"type":"Point"}
+  "geometry": {"coordinates":[65.87806,32.62998],"type":"Point"}
 }

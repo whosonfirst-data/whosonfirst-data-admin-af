@@ -49,7 +49,7 @@
         "wk:page":"Sel_Don"
     },
     "wof:country":"AF",
-    "wof:geomhash":"8e2a0af7f946bfcd271657e6e06fed20",
+    "wof:geomhash":"f478601f80d255e6de92adb317dd7bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     70.41259000000002,
     37.75252
 ],
-  "geometry": {"coordinates":[70.41259000000002,37.75252],"type":"Point"}
+  "geometry": {"coordinates":[70.41259,37.75252],"type":"Point"}
 }

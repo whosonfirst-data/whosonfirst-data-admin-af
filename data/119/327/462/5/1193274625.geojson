@@ -52,7 +52,7 @@
         "wk:page":"Kafsh_Andaz"
     },
     "wof:country":"AF",
-    "wof:geomhash":"787e86ed8a7d20a41cabb9c32040baad",
+    "wof:geomhash":"67bcf5b559abfd848ca9bdde9c8a6118",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     68.05051999999999,
     34.86129
 ],
-  "geometry": {"coordinates":[68.05051999999999,34.86129],"type":"Point"}
+  "geometry": {"coordinates":[68.05052,34.86129],"type":"Point"}
 }

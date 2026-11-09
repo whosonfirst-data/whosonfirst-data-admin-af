@@ -68,7 +68,7 @@
         "wk:page":"Kamdesh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"fdc3ed1550cdbbe1d9277a56f41090a2",
+    "wof:geomhash":"295a163ccd0cd7e5cd548e8f1cead989",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     71.34059,
     35.41027000000001
 ],
-  "geometry": {"coordinates":[71.34059000000001,35.41027000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.34059,35.41027],"type":"Point"}
 }

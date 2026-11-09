@@ -56,7 +56,7 @@
         "wk:page":"Dishu"
     },
     "wof:country":"AF",
-    "wof:geomhash":"218e32a428485743496b9eccc0ff126a",
+    "wof:geomhash":"b21d741d5d8632c99d2b593164af2b80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -82,5 +82,5 @@
     63.31738000000001,
     30.43295
 ],
-  "geometry": {"coordinates":[63.31738000000001,30.43295],"type":"Point"}
+  "geometry": {"coordinates":[63.31738,30.43295],"type":"Point"}
 }

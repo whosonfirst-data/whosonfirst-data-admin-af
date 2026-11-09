@@ -55,7 +55,7 @@
         "wk:page":"Khar_Kat-e_Bala"
     },
     "wof:country":"AF",
-    "wof:geomhash":"22f6aeb2246d27168f5bdd0bb2af11a6",
+    "wof:geomhash":"e45573ee072b8ced3fd279387a594b08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     70.92799000000002,
     38.27428
 ],
-  "geometry": {"coordinates":[70.92799000000002,38.27428],"type":"Point"}
+  "geometry": {"coordinates":[70.92799,38.27428],"type":"Point"}
 }

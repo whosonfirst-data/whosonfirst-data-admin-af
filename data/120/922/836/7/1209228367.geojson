@@ -48,7 +48,7 @@
         "wk:page":"Ghumay"
     },
     "wof:country":"AF",
-    "wof:geomhash":"7db3be0d76aeff2dc091da4e51d00b9b",
+    "wof:geomhash":"1c8b6a362d76fbc6be5361f12f43d9e0",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -71,5 +71,5 @@
     71.28381999999998,
     38.14513
 ],
-  "geometry": {"coordinates":[71.28381999999998,38.14513],"type":"Point"}
+  "geometry": {"coordinates":[71.28382,38.14513],"type":"Point"}
 }

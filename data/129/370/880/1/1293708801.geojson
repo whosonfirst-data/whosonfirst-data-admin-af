@@ -48,7 +48,7 @@
         "wk:page":"Gardan_Deh"
     },
     "wof:country":"AF",
-    "wof:geomhash":"3e835ab17d615c6854e56a1bbaf2d7be",
+    "wof:geomhash":"294a72439c92fd12ea1d923e413bf6ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     67.60956999999999,
     34.11774
 ],
-  "geometry": {"coordinates":[67.60956999999999,34.11774],"type":"Point"}
+  "geometry": {"coordinates":[67.60957,34.11774],"type":"Point"}
 }

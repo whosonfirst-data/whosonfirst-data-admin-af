@@ -51,7 +51,7 @@
         "wk:page":"Siah_Chub_Kalay"
     },
     "wof:country":"AF",
-    "wof:geomhash":"f9ae2019799d31ca2b8c1af49a57c526",
+    "wof:geomhash":"1332cde923a687b10b8823d973e3559e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     66.48116999999999,
     32.46203
 ],
-  "geometry": {"coordinates":[66.48116999999999,32.46203],"type":"Point"}
+  "geometry": {"coordinates":[66.48117,32.46203],"type":"Point"}
 }

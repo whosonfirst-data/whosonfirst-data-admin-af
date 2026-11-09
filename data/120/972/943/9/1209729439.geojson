@@ -49,7 +49,7 @@
         "wk:page":"Khashpak"
     },
     "wof:country":"AF",
-    "wof:geomhash":"082f05a2dd78fafa5bf863263c547d4c",
+    "wof:geomhash":"bff794ed94731bffb904c4b0d40d526d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     71.48796999999998,
     36.6605
 ],
-  "geometry": {"coordinates":[71.48796999999998,36.6605],"type":"Point"}
+  "geometry": {"coordinates":[71.48797,36.6605],"type":"Point"}
 }

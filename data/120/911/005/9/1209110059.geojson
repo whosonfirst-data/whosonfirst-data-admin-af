@@ -53,7 +53,7 @@
         "wk:page":"Kashkandyow"
     },
     "wof:country":"AF",
-    "wof:geomhash":"5157ad5ea249642c757583bfe6ca56af",
+    "wof:geomhash":"bf6b26be36d5b1a4b019f198119d24a9",
     "wof:hierarchy":[
         {
             "country_id":85632229,
@@ -76,5 +76,5 @@
     72.08528000000003,
     36.82361
 ],
-  "geometry": {"coordinates":[72.08528000000003,36.82361],"type":"Point"}
+  "geometry": {"coordinates":[72.08528,36.82361],"type":"Point"}
 }

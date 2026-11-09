@@ -52,7 +52,7 @@
         "gn:id":1144146
     },
     "wof:country":"AF",
-    "wof:geomhash":"28299ab0132c9ddd46755d8f3c809060",
+    "wof:geomhash":"d7267a7d0ca1780fe69b7531a35f2d78",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     65.21106999999999,
     35.17043
 ],
-  "geometry": {"coordinates":[65.21106999999999,35.17043],"type":"Point"}
+  "geometry": {"coordinates":[65.21107,35.17043],"type":"Point"}
 }

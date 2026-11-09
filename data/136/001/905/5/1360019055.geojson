@@ -62,7 +62,7 @@
         "wk:page":"Fathabad"
     },
     "wof:country":"AF",
-    "wof:geomhash":"62714f859089923e3e83b9ff31d610fc",
+    "wof:geomhash":"8899fe87c49933dec4a9ed8e362d3aa3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -88,5 +88,5 @@
     66.32885999999999,
     36.94876
 ],
-  "geometry": {"coordinates":[66.32885999999999,36.94876],"type":"Point"}
+  "geometry": {"coordinates":[66.32886,36.94876],"type":"Point"}
 }

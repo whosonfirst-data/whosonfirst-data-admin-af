@@ -53,7 +53,7 @@
         "wk:page":"Galleh_Chaghar"
     },
     "wof:country":"AF",
-    "wof:geomhash":"23f63bc9b7cdf4e1673470506daf0e50",
+    "wof:geomhash":"ef68c312aa1c7f0ae6954b95234aa6a8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,5 +79,5 @@
     62.78321999999999,
     34.74585
 ],
-  "geometry": {"coordinates":[62.78321999999999,34.74585],"type":"Point"}
+  "geometry": {"coordinates":[62.78322,34.74585],"type":"Point"}
 }
