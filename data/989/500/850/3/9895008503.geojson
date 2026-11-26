@@ -1,0 +1,74 @@
+{
+  "id": 9895008503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0379,34.5599,69.0379,34.5599",
+    "geom:latitude":34.5599,
+    "geom:longitude":69.0379,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13417398: name \"Gul Kh\u0101nah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13417398"
+        },
+        {
+            "citation":"GeoNames populated place 13417398: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13417398"
+        },
+        {
+            "citation":"GeoNames populated place 13417398: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13417398"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562345 (Paghman), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667603,
+        102191569,
+        1108562345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13417398
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"b55e7925cd98ca76fcbb6d0d88c8af57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562345,
+            "locality_id":9895008503,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":9895008503,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Gul Kh\u0101nah",
+    "wof:parent_id":1108562345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0379,
+    34.5599,
+    69.0379,
+    34.5599
+],
+  "geometry": {"coordinates":[69.0379,34.5599],"type":"Point"}
+}

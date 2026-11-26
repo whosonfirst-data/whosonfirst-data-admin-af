@@ -1,0 +1,74 @@
+{
+  "id": 9895008476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.89214,32.53303,65.89214,32.53303",
+    "geom:latitude":32.53303,
+    "geom:longitude":65.89214,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1449917: name \"Dehyak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1449917"
+        },
+        {
+            "citation":"GeoNames populated place 1449917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1449917"
+        },
+        {
+            "citation":"GeoNames populated place 1449917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1449917"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562547 (Tirin Kot), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667541,
+        102191569,
+        1108562547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1449917
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"98fc1ec83e001bda5b6e16fc663e4f9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562547,
+            "locality_id":9895008476,
+            "region_id":85667541
+        }
+    ],
+    "wof:id":9895008476,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Dehyak",
+    "wof:parent_id":1108562547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.89214,
+    32.53303,
+    65.89214,
+    32.53303
+],
+  "geometry": {"coordinates":[65.89214,32.53303],"type":"Point"}
+}

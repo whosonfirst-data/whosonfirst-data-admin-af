@@ -1,0 +1,74 @@
+{
+  "id": 9895008494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.88283,33.81116,65.88283,33.81116",
+    "geom:latitude":33.81116,
+    "geom:longitude":65.88283,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13407980: name \"Karamz\u0101r\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13407980"
+        },
+        {
+            "citation":"GeoNames populated place 13407980: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13407980"
+        },
+        {
+            "citation":"GeoNames populated place 13407980: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13407980"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562133 (Khadir), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        102191569,
+        1108562133,
+        1108803083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13407980
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f369065b37f7984b180df83e5d598fc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562133,
+            "locality_id":9895008494,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":9895008494,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Karamz\u0101r",
+    "wof:parent_id":1108562133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.88283,
+    33.81116,
+    65.88283,
+    33.81116
+],
+  "geometry": {"coordinates":[65.88283,33.81116],"type":"Point"}
+}

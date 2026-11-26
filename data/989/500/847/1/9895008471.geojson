@@ -1,0 +1,74 @@
+{
+  "id": 9895008471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.14917,35.06361,64.14917,35.06361",
+    "geom:latitude":35.06361,
+    "geom:longitude":64.14917,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1139335: name \"Jawand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1139335"
+        },
+        {
+            "citation":"GeoNames populated place 1139335: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1139335"
+        },
+        {
+            "citation":"GeoNames populated place 1139335: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1139335"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562105 (Jawand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667493,
+        102191569,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1139335
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ace7960b6b9cff2a3813ad7807e9bf07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":9895008471,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":9895008471,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Jawand",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.14917,
+    35.06361,
+    64.14917,
+    35.06361
+],
+  "geometry": {"coordinates":[64.14917,35.06361],"type":"Point"}
+}

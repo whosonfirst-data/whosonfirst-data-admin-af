@@ -1,0 +1,74 @@
+{
+  "id": 9895008474,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.99405,32.73935,64.99405,32.73935",
+    "geom:latitude":32.73935,
+    "geom:longitude":64.99405,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1143389: name \"Deh Yak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1143389"
+        },
+        {
+            "citation":"GeoNames populated place 1143389: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1143389"
+        },
+        {
+            "citation":"GeoNames populated place 1143389: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1143389"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171025 (Baghran), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667531,
+        102191569,
+        421171025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143389
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"42ebba9b6cada3c09873cfcad7574ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171025,
+            "locality_id":9895008474,
+            "region_id":85667531
+        }
+    ],
+    "wof:id":9895008474,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Deh Yak",
+    "wof:parent_id":421171025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.99405,
+    32.73935,
+    64.99405,
+    32.73935
+],
+  "geometry": {"coordinates":[64.99405,32.73935],"type":"Point"}
+}

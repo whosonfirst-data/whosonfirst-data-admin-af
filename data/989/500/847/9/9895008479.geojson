@@ -1,0 +1,75 @@
+{
+  "id": 9895008479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.73045,33.17568,68.73045,33.17568",
+    "geom:latitude":33.17568,
+    "geom:longitude":68.73045,
+    "gn:population":2200,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8534261: name \"Sharan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8534261"
+        },
+        {
+            "citation":"GeoNames populated place 8534261: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8534261"
+        },
+        {
+            "citation":"GeoNames populated place 8534261: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8534261"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562475 (Sharan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667567,
+        102191569,
+        1108562475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534261
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8152777394ae878fb2807967a3f9045c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562475,
+            "locality_id":9895008479,
+            "region_id":85667567
+        }
+    ],
+    "wof:id":9895008479,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Sharan",
+    "wof:parent_id":1108562475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.73045,
+    33.17568,
+    68.73045,
+    33.17568
+],
+  "geometry": {"coordinates":[68.73045,33.17568],"type":"Point"}
+}

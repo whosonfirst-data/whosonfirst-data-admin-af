@@ -1,0 +1,74 @@
+{
+  "id": 9895008472,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23871,34.60139,69.23871,34.60139",
+    "geom:latitude":34.60139,
+    "geom:longitude":69.23871,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1143376: name \"Deh-e Ya\u1e29y\u00e1\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1143376"
+        },
+        {
+            "citation":"GeoNames populated place 1143376: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1143376"
+        },
+        {
+            "citation":"GeoNames populated place 1143376: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1143376"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561973 (Dih Sabz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667603,
+        102191569,
+        1108561973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1143376
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"e20bb2cac4be189380f908e5ccefbf46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561973,
+            "locality_id":9895008472,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":9895008472,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Deh-e Ya\u1e29y\u00e1",
+    "wof:parent_id":1108561973,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23871,
+    34.60139,
+    69.23871,
+    34.60139
+],
+  "geometry": {"coordinates":[69.23871,34.60139],"type":"Point"}
+}
