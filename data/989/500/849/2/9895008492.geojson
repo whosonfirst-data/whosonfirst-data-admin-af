@@ -1,0 +1,74 @@
+{
+  "id": 9895008492,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.21302,34.58737,69.21302,34.58737",
+    "geom:latitude":34.58737,
+    "geom:longitude":69.21302,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13405451: name \"Khwaja Rawash Residential town\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13405451"
+        },
+        {
+            "citation":"GeoNames populated place 13405451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13405451"
+        },
+        {
+            "citation":"GeoNames populated place 13405451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13405451"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421171977 (Kabul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667603,
+        102191569,
+        421171977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13405451
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"0e60065ed7d0dab615f5950bafd1c0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":421171977,
+            "locality_id":9895008492,
+            "region_id":85667603
+        }
+    ],
+    "wof:id":9895008492,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Khwaja Rawash Residential town",
+    "wof:parent_id":421171977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.21302,
+    34.58737,
+    69.21302,
+    34.58737
+],
+  "geometry": {"coordinates":[69.21302,34.58737],"type":"Point"}
+}

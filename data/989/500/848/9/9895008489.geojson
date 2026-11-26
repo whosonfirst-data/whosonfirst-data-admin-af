@@ -1,0 +1,74 @@
+{
+  "id": 9895008489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70043,37.06229,70.70043,37.06229",
+    "geom:latitude":37.06229,
+    "geom:longitude":70.70043,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547490: name \"Dasht Shmera\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547490"
+        },
+        {
+            "citation":"GeoNames populated place 12547490: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547490"
+        },
+        {
+            "citation":"GeoNames populated place 12547490: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547490"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561817 (Arghanj Khaw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667573,
+        102191569,
+        1108561817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547490
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a40fff6f7a803928d1836d8dc19153d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561817,
+            "locality_id":9895008489,
+            "region_id":85667573
+        }
+    ],
+    "wof:id":9895008489,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Dasht Shmera",
+    "wof:parent_id":1108561817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70043,
+    37.06229,
+    70.70043,
+    37.06229
+],
+  "geometry": {"coordinates":[70.70043,37.06229],"type":"Point"}
+}

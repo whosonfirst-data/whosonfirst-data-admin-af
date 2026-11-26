@@ -1,0 +1,74 @@
+{
+  "id": 9895008496,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.70524,34.1556,69.70524,34.1556",
+    "geom:latitude":34.1556,
+    "geom:longitude":69.70524,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408116: name \"Khar\u014d\u1e6f\u012b\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408116"
+        },
+        {
+            "citation":"GeoNames populated place 13408116: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408116"
+        },
+        {
+            "citation":"GeoNames populated place 13408116: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408116"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561829 (Azra), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667623,
+        102191569,
+        1108561829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408116
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"96fd7a486a27d9f3a4b0b1425d5beb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561829,
+            "locality_id":9895008496,
+            "region_id":85667623
+        }
+    ],
+    "wof:id":9895008496,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Khar\u014d\u1e6f\u012b",
+    "wof:parent_id":1108561829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.70524,
+    34.1556,
+    69.70524,
+    34.1556
+],
+  "geometry": {"coordinates":[69.70524,34.1556],"type":"Point"}
+}

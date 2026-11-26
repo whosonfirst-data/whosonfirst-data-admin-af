@@ -1,0 +1,74 @@
+{
+  "id": 9895008469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.31713,36.54042,67.31713,36.54042",
+    "geom:latitude":36.54042,
+    "geom:longitude":67.31713,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1133791: name \"Marmul\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1133791"
+        },
+        {
+            "citation":"GeoNames populated place 1133791: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1133791"
+        },
+        {
+            "citation":"GeoNames populated place 1133791: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1133791"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562253 (Marmul), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667505,
+        102191569,
+        1108562253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1133791
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"7870fc12ad26500515a5d573e105542f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562253,
+            "locality_id":9895008469,
+            "region_id":85667505
+        }
+    ],
+    "wof:id":9895008469,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Marmul",
+    "wof:parent_id":1108562253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.31713,
+    36.54042,
+    67.31713,
+    36.54042
+],
+  "geometry": {"coordinates":[67.31713,36.54042],"type":"Point"}
+}

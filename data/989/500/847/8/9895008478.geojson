@@ -1,0 +1,74 @@
+{
+  "id": 9895008478,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12188,34.25353,66.12188,34.25353",
+    "geom:latitude":34.25353,
+    "geom:longitude":66.12188,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1456313: name \"Sang-e Takht\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1456313"
+        },
+        {
+            "citation":"GeoNames populated place 1456313: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1456313"
+        },
+        {
+            "citation":"GeoNames populated place 1456313: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1456313"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562431 (Sangi Takht), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        102191569,
+        1108562431,
+        1108803083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1456313
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"59a99fc1e8cf92016580bee795768d54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562431,
+            "locality_id":9895008478,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":9895008478,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Sang-e Takht",
+    "wof:parent_id":1108562431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12188,
+    34.25353,
+    66.12188,
+    34.25353
+],
+  "geometry": {"coordinates":[66.12188,34.25353],"type":"Point"}
+}

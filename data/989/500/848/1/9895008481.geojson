@@ -1,0 +1,74 @@
+{
+  "id": 9895008481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.9667,35.05,63.9667,35.05",
+    "geom:latitude":35.05,
+    "geom:longitude":63.9667,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12047200: name \"Sh\u0101h-i-Mashhad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12047200"
+        },
+        {
+            "citation":"GeoNames populated place 12047200: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12047200"
+        },
+        {
+            "citation":"GeoNames populated place 12047200: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12047200"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562105 (Jawand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667493,
+        102191569,
+        1108562105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12047200
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"ef8250db9a52d158a2232e00c723f577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562105,
+            "locality_id":9895008481,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":9895008481,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Sh\u0101h-i-Mashhad",
+    "wof:parent_id":1108562105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.9667,
+    35.05,
+    63.9667,
+    35.05
+],
+  "geometry": {"coordinates":[63.9667,35.05],"type":"Point"}
+}

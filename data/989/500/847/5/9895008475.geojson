@@ -1,0 +1,74 @@
+{
+  "id": 9895008475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45,33.31667,68.45,33.31667",
+    "geom:latitude":33.31667,
+    "geom:longitude":68.45,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1148677: name \"Andar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1148677"
+        },
+        {
+            "citation":"GeoNames populated place 1148677: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1148677"
+        },
+        {
+            "citation":"GeoNames populated place 1148677: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1148677"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561805 (Andar), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667561,
+        102191569,
+        1108561805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1148677
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"a87d224e40147650051f7297c1b37f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561805,
+            "locality_id":9895008475,
+            "region_id":85667561
+        }
+    ],
+    "wof:id":9895008475,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Andar",
+    "wof:parent_id":1108561805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45,
+    33.31667,
+    68.45,
+    33.31667
+],
+  "geometry": {"coordinates":[68.45,33.31667],"type":"Point"}
+}

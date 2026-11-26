@@ -1,0 +1,74 @@
+{
+  "id": 9895008495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.21781,33.70191,66.21781,33.70191",
+    "geom:latitude":33.70191,
+    "geom:longitude":66.21781,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408041: name \"Ch\u0101k\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408041"
+        },
+        {
+            "citation":"GeoNames populated place 13408041: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408041"
+        },
+        {
+            "citation":"GeoNames populated place 13408041: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408041"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562461 (Shahristan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        102191569,
+        1108562461,
+        1108803083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408041
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"8bd7620c41f13f18b76726f6271006a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562461,
+            "locality_id":9895008495,
+            "region_id":1108803083
+        }
+    ],
+    "wof:id":9895008495,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Ch\u0101k",
+    "wof:parent_id":1108562461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.21781,
+    33.70191,
+    66.21781,
+    33.70191
+],
+  "geometry": {"coordinates":[66.21781,33.70191],"type":"Point"}
+}

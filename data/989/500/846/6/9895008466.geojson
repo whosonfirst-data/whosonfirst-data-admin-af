@@ -1,0 +1,74 @@
+{
+  "id": 9895008466,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.32886,35.58408,63.32886,35.58408",
+    "geom:latitude":35.58408,
+    "geom:longitude":63.32886,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1132770: name \"Bala Murghab\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1132770"
+        },
+        {
+            "citation":"GeoNames populated place 1132770: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1132770"
+        },
+        {
+            "citation":"GeoNames populated place 1132770: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1132770"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108561847 (Bala Murghab), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667493,
+        102191569,
+        1108561847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1132770
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"44bf733a6ed9245da90e741daa6938b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108561847,
+            "locality_id":9895008466,
+            "region_id":85667493
+        }
+    ],
+    "wof:id":9895008466,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Bala Murghab",
+    "wof:parent_id":1108561847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.32886,
+    35.58408,
+    63.32886,
+    35.58408
+],
+  "geometry": {"coordinates":[63.32886,35.58408],"type":"Point"}
+}

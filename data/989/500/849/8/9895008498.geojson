@@ -1,0 +1,74 @@
+{
+  "id": 9895008498,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29459,34.52944,70.29459,34.52944",
+    "geom:latitude":34.52944,
+    "geom:longitude":70.29459,
+    "iso:country":"AF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408363: name \"Lama\u1e6fak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408363"
+        },
+        {
+            "citation":"GeoNames populated place 13408363: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408363"
+        },
+        {
+            "citation":"GeoNames populated place 13408363: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408363"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108562393 (Qarghayi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632229,
+        85667617,
+        102191569,
+        1108562393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408363
+    },
+    "wof:country":"AF",
+    "wof:geomhash":"f468a3e4d90f306ec311f81c6ab64773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562393,
+            "locality_id":9895008498,
+            "region_id":85667617
+        }
+    ],
+    "wof:id":9895008498,
+    "wof:lastmodified":1795735125,
+    "wof:name":"Lama\u1e6fak",
+    "wof:parent_id":1108562393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-af",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29459,
+    34.52944,
+    70.29459,
+    34.52944
+],
+  "geometry": {"coordinates":[70.29459,34.52944],"type":"Point"}
+}
